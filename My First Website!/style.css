@@ -1,0 +1,38 @@
+.top-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 40px;
+	background-color: lightskyblue;
+	border-bottom: 3px solid yellow;
+	padding: 5px;
+	box-sizing: border-box;
+	z-index: 9999;
+}
+
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: #eaeaea;
+	color: #333;
+}
+
+.container {
+	width: 960px;
+	margin: 80px auto;
+	background-color: #fff;
+}
+
+.navigasi li {
+	display: inline;
+	margin: 80px auto;
+}
+
+.main {
+	width: 50%;
+	background-color: pink;
+}
+
+.main h2 {
+	background-color: yellow;
+}
