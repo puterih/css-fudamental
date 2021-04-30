@@ -1,0 +1,150 @@
+.container {
+	width: 800px;
+	margin: auto;
+	position: relative;
+}
+
+body {
+	height: 3000px;
+	background: url(oriental-tiles.png);
+}
+
+.top-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 40px;
+	color: white;
+	background-color: grey; 
+	border-bottom: 3px solid lightskyblue;
+	padding: 10px;
+	box-sizing: border-box;
+	z-index: 9999;
+
+	
+}
+
+.one {
+	width: 220px;
+	height: 220px;
+	background-color: pink;
+	margin-top: 120px;
+	margin-left: 80px;
+	background: url(gambar5.jpg);
+	
+}
+
+.two {
+	width: 120px;
+	height: 40px;
+	background-color: salmon;
+	color: white;
+	margin-top: -233px;
+	margin-left: 67px;
+	position: absolute;
+	padding: 10px 27px;
+	box-sizing: border-box;
+	
+}
+
+.three {
+	width: 345px;
+	height: 220px;
+	background-color: green;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-right: 80px;
+	padding: 50px 30px;
+	box-sizing: border-box;
+	
+}
+
+.four {
+	width: 120px;
+	height: 30px;
+	background-color: grey;
+	color: white;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-top: -13px;
+	margin-right: 300px;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 10px;
+	font-family: georgia, serif;
+	
+}
+
+.five {
+	width: 560px;
+	height: 140px;
+	background-color: yellow;
+	padding: 40px;
+	color: grey;
+	margin-top: 70px;
+	margin-left: 80px;
+	margin-right: -100px;
+
+}
+
+.six {
+	width: 145px;
+	height: 40px;
+	background-color: lightgreen;
+	color: grey;
+	position: absolute;
+	margin-top: -230px;
+	margin-left: 70px;
+	padding: 10px 30px;
+	box-sizing: border-box;
+}
+
+.seven {
+	width: 800px;
+	height: 430px;
+	background-color: violet;
+	margin-top: 50px;
+	
+}
+
+.eight {
+	width: 780px;
+	height: 200px;
+	background-color: blue;
+	margin-top: -420px;
+	margin-left: 10px;
+	position: absolute;
+}
+
+.nine {
+	width: 200px;
+	height: 40px;
+	background-color: grey; 
+	position: absolute;
+	margin-top: -410px;
+	margin-left: 20px;
+	padding: 10px 80px;
+	color: white;
+	box-sizing: border-box;
+}
+
+.ten {
+	width: 760px;
+	height: 130px;
+	background-color: lightskyblue; 
+	position: absolute;
+	margin-top: -360px;
+	margin-left: 20px;
+}
+
+.eleven {
+	width: 780px;
+	height: 200px;
+	background-color: red;
+	margin-top: -210px;
+	margin-left: 10px;
+	
+}
